@@ -48,4 +48,4 @@ Image classification is used in a huge range of real-world applications includin
 
 <img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/dbd36263-b9e5-4cb5-8a78-0d31bebcb197" />
 
-
+<img width="1200" height="500" alt="Image" src="https://github.com/user-attachments/assets/88901250-34fb-4ff1-86b4-14c6b9adbc8e" />
