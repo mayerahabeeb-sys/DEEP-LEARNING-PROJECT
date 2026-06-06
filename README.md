@@ -45,3 +45,7 @@ Application and Real-World Relevance
 Image classification is used in a huge range of real-world applications including medical imaging, document scanning, postal code recognition, and security systems. The techniques used here — convolutional-style networks, backpropagation, and optimisation — form the foundation of modern computer vision systems.
 
 #OUTPUT
+
+<img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/dbd36263-b9e5-4cb5-8a78-0d31bebcb197" />
+
+
